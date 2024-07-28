@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844387746129",
+    "project_id": "todolist-40930",
+    "storage_bucket": "todolist-40930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844387746129:android:b14ebaabab5dacaac2d370",
+        "android_client_info": {
+          "package_name": "com.dippy_project.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844387746129-duehceb93223c6of0nr9aq51u16iuniq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs6XRNYfAHCShwnHXIbYwqHSNAwp4waoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844387746129-duehceb93223c6of0nr9aq51u16iuniq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
